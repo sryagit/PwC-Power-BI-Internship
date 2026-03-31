@@ -1,1 +1,1 @@
-# PwC PowerBI Internship
+# PwC Power BI Internship
