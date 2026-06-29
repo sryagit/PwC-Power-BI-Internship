@@ -1,1 +1,10 @@
 # PwC Power BI Internship
+
+## Call Center Manager Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiMjhiZTg5ZGUtMTRhMS00OGM3LWI5MWEtMjA0Y2JjZjE5OGE5IiwidCI6ImU1MDBlZDk2LTFiMmEtNDA0YS05OGEzLTVhOTRhZGJjNzgxYyJ9
+
+## Retention Manager Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiYjM1Y2VjYTctNzg3NC00MmEzLThiYWMtMDM0ZjYzODBiMDU4IiwidCI6ImU1MDBlZDk2LTFiMmEtNDA0YS05OGEzLTVhOTRhZGJjNzgxYyJ9
+
+## HR Manager Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiMGJiMzY1YjYtMDA3OS00MTBmLTlhYTYtYTZjZTFlOTliYzk1IiwidCI6ImU1MDBlZDk2LTFiMmEtNDA0YS05OGEzLTVhOTRhZGJjNzgxYyJ9
